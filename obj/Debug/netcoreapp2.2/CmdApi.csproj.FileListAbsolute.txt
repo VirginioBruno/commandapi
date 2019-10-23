@@ -1,0 +1,28 @@
+C:\My Projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+C:\My Projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+C:\My Projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+C:\My Projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+C:\My Projects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csproj.CoreCompileInputs.cache
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+C:\My Projects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb
+C:\PersonalProjects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+C:\PersonalProjects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+C:\PersonalProjects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+C:\PersonalProjects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+C:\PersonalProjects\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+C:\PersonalProjects\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb

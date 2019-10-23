@@ -37,7 +37,3 @@ function createCommandItem(command) {
     return trElement;
 
 }
-
-function saveCommand() {
-    
-}
