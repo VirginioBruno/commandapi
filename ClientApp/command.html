@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script src="https://kit.fontawesome.com/951840fc62.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="css/style.css">
+        <title>Commands Register</title>
+    </head>
+    <body>
+        <div id="header">
+            <h1><i class="fas fa-terminal"></i> Command Register</h1>
+            <button class="btn" id="btn-add"><i class="fas fa-plus"></i></button>
+        </div>
+        <div class="container">
+            <table id="tbl-commands">
+                <tr class="tbl-header">
+                    <th>PLATFORM</th>
+                    <th>HOW TO</th>
+                    <th>COMMAND LINE</th>
+                    <th>ACTION</th>
+                </tr>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <div id="footer">
+            <span id="copyright">Developed by Bruno Virginio da Silva <i class="far fa-copyright"></i>2019</span>
+            <ul class="nav-midia">
+                <li><a href="https://www.linkedin.com/in/bruno-virginio-10618312a/"><i class="fab fa-linkedin icon"></i></a></li>
+                <li><a href="https://github.com/VirginioBruno"><i class="fab fa-github icon"></i></a></li>
+            </ul>
+        </div>
+    </body>
+    <div id="command-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span> 
+            <div class="modal-body">
+                <div class="row">
+                    <label class="form-control" for="txtPlatform">Platform*</label>
+                    <input type="text" class="input-form-control " id="txtPlatform">
+                </div>
+                <div class="row">
+                    <label class="form-control" for="txtHowTo">How To*</label>
+                    <input type="text" class="input-form-control " id="txtHowTo">
+                </div>
+                <div class="row">
+                    <label class="form-control" for="txtCommandLine">Command Line*</label>
+                    <input type="text" class="input-form-control " id="txtCommandLine">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-cancel close">Cancel</button>
+                <button class="btn btn-save">Save</button>
+            </div>
+        </div>
+    </div>
+</html>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="js/api.js"></script>
+<script src="js/command.js"></script>
+<script src="js/main.js"></script>
